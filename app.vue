@@ -1,6 +1,5 @@
 <template>
   <div>
-    <!-- Remove this component to get started! -->
-    <NuxtWelcome />
+    <h1>Nuxt 3 Supabase TodoMVC</h1>
   </div>
 </template>
